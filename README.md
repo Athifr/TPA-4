@@ -7,4 +7,4 @@ Features :
 - Blog/Works
 - Contact
 
-(website){https://verdant-biscuit-c191cd.netlify.app/}
+(website)[https://verdant-biscuit-c191cd.netlify.app/]
